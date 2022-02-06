@@ -1,0 +1,72 @@
+.contactimg{
+    border-radius: 100%;
+    width:25vw;
+    padding:15px 75px;
+}
+
+.contact{
+    display: flex;
+    height: 85vh;
+}
+.oneside{
+    width:50%
+}
+
+.info{
+    position: relative;
+    left: 152px;
+}
+
+.new{
+    margin:0px 175px;
+}
+
+#form{
+    width: 50%;
+   margin-top: 120px;
+   text-align: center;
+}
+
+#username{
+    width: 38vw;
+height: 5vh;
+margin: 10px;
+padding: 0px 5px;
+}
+
+#email{
+    width: 38vw;
+    height: 5vh;
+    margin: 10px;
+    padding: 0px 5px;
+}
+
+#number{
+    width: 38vw;
+    height: 5vh;
+    margin: 10px;
+    padding: 0px 5px;
+}
+
+#message{
+    height:15vh;
+    width: 38vw;
+
+margin: 10px;
+padding: 0px 5px;
+}
+
+#submit{
+    font-size: 20px;
+    width: 120px;
+    margin-top: 23px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#submit:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}

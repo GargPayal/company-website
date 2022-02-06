@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+
+}
+
+.backimg{
+    width: 72vw;
+    height: 60vh;
+}
+
+.missionimg{
+    width: 32vw;
+height: 50vh;
+position: relative;
+left: 15vw;
+}
+
+.leftside{
+    display: flex;
+}
+
+.text{
+    position: relative;
+    left: 21vw;
+}
